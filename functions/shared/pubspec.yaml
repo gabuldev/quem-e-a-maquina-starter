@@ -1,0 +1,14 @@
+name: shared
+description: Código compartilhado entre o app Flutter e as Functions do "Quem é a máquina?".
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.9.0
+
+# Sem dependências de Flutter nem de Firebase: precisa compilar nos dois lados.
+dependencies:
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.0
