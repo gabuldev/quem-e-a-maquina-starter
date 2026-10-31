@@ -28,7 +28,7 @@ Teste na aba **Lab** do app: escreva um estilo e aperte **Testar**.
 Ainda no Lab, itere no estilo até as 3 respostas parecerem de gente. Dica: o
 prompt bom restringe (tamanho, gíria, erro de digitação, pontuação). Quando
 gostar, **Usar no jogo**. A partir daí os impostores do jogo podem sair do seu
-prompt, e se ele enganar muita gente, você leva o Dash de pelúcia.
+prompt e jogar contra o evento inteiro.
 
 ## 3. Deploy no seu projeto
 
